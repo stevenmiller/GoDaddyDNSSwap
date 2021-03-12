@@ -10,9 +10,9 @@ You will need to obtain a production API key from your GoDaddy account.
 
 # Usage
 
--h --help Help
--c --csv Specify input CSV file 
--p --publickey Your GoDaddy Public Key
--s --secretkey Your GoDaddy Secret Key
+* -h --help Help
+* -c --csv Specify input CSV file 
+* -p --publickey Your GoDaddy Public Key
+* -s --secretkey Your GoDaddy Secret Key
 
 ex. godaddy_dnsswap.exe -p mypublickey -s mysecretkey -c c:\path\to\file.csv
