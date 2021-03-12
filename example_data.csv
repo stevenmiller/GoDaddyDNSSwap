@@ -1,0 +1,2 @@
+ip,domain,name,recordtype
+1.1.1.1,mydomain.com,test-record,A
